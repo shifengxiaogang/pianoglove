@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Piano glove</string>
+    <string name="action_settings">Settings</string>
+    <string name="Rssi">RSSI</string>
+    <string name="rssiValue">---</string>
+    <string name="digitalOut">Digital Out</string>
+    <string name="digitalIn">Digital In</string>
+    <string name="Pin">Pin</string>
+    <string name="pinValue4">[ 2 ]</string>
+    <string name="pinValue5">[ A4 ]</string>
+    <string name="pinValue6">[ 3 ]</string>
+    <string name="pinValue7">[ 5 ]</string>
+    <string name="pinValueA1">[ A1 ]</string>
+    <string name="pinValueA0">[ A0 ]</string>
+    <string name="pinValueA2">[ A2 ]</string>
+    <string name="pinValueA3">[ A3 ]</string>
+    <string name="pinValueA4">[ A4 ]</string>
+    <string name="write">write</string>
+    <string name="read">read</string>
+    <string name="PWM">PWM</string>
+    <string name="Servo">Servo</string>
+    <string name="AnalogIn1">Do</string>
+    <string name="AnalogIn2">Re</string>
+    <string name="AnalogIn3">Mi</string>
+    <string name="AnalogIn4">Fa</string>
+    <string name="AnalogIn5">Sol</string>
+    <string name="AIText">----</string>
+    <string name="connect">Connect</string>
+    <string name="loading">Refreshing......</string>
+
+</resources>
